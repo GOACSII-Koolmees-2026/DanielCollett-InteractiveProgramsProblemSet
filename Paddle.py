@@ -1,3 +1,5 @@
+#a ball and paddle game where the ball bounces up and down and moves back and forth based off of the speed variable and the paddle follows your mouse cursor
+#when the ball hits the paddle it should bounce up and change direction sometimes
 import pgzrun
 import random
 HEIGHT = 600
