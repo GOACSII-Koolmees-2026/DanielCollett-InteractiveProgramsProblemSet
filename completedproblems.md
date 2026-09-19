@@ -1,7 +1,11 @@
 List of completed problems
 
-1.
-2.
-3.
-4.
-5.
+1.grow 
+
+2.gravity
+
+3.bouncecount
+
+4.launcher
+
+5.Paddle
